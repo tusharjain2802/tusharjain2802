@@ -6,7 +6,7 @@ I'm Tushar Jain pursuing Computer Engineering at TIET.
 I'm also passionate in learning Data Science/ Machine Learning.
 I'm a quick and passionate learner.I always passionate about understanding the core concepts behind different popular Technological Fields.
 
-- 🔭 I’m currently focusing on some physical activities gyming.
+- 🔭 I’m currently focusing on Data Science and Data Structures.
 - 🌱 I’m currently learning to manage my time and be productive.
 - 👯 I’m looking for internship opportunities.
 - 😄 Pronouns: ...He/Him
