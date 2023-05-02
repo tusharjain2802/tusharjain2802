@@ -3,8 +3,8 @@
 
 ## About Me ✍
 I'm Tushar Jain pursuing Computer Engineering at TIET.
-I'm also passionate in learning Data Science/ Machine Learning.
-I'm a quick and passionate learner.I always passionate about understanding the core concepts behind different popular Technological Fields.
+I'm passionate in learning Web Development & Machine Learning concepts.
+I'm a quick learner.I always passionate about understanding the core concepts behind different popular Technological Fields.
 
 - 🔭 I’m currently focusing on Data Science and Data Structures.
 - 🌱 I’m currently learning to manage my time and be productive.
