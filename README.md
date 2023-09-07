@@ -17,7 +17,7 @@ I'm a quick learner.I always passionate about understanding the core concepts be
   <img align="left" alt="Tushar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/tushar-jain-94a6a2194/">
-  <img align="left" alt="Tushar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Tushar's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="http://github.com/tusharjain2802">
   <img align="left" alt="Tushar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -70,3 +70,10 @@ Some of my skills are under
 <br/>  
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharjain2802&show_icons=true&locale=en&layout=compact" alt="tusharjain2802" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharjain2802&show_icons=true&locale=en" alt="tusharjain2802" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharjain2802&" alt="tusharjain2802" /></p>
