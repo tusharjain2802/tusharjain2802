@@ -2,11 +2,11 @@
 
 
 ## About Me ✍
-I'm Tushar Jain pursuing Computer Engineering at TIET.
-I'm passionate in learning Web Development & Machine Learning concepts.
-I'm a quick learner.I always passionate about understanding the core concepts behind different popular Technological Fields.
+I'm Tushar Jain, and I'm pursuing Computer Engineering at TIET.
+I'm passionate about learning Web Development & Machine Learning concepts.
+I'm a quick learner. I am always passionate about understanding the core concepts behind different popular Technological Fields.
 
-- 🔭 I’m currently focusing on Data Science and Data Structures.
+- 🔭 I’m currently focusing on MERN Stack Development
 - 🌱 I’m currently learning to manage my time and be productive.
 - 👯 I’m looking for internship opportunities.
 - 😄 Pronouns: ...He/Him
@@ -17,7 +17,7 @@ I'm a quick learner.I always passionate about understanding the core concepts be
   <img align="left" alt="Tushar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/tushar-jain-94a6a2194/">
-  <img align="left" alt="Tushar's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Tushar's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="http://github.com/tusharjain2802">
   <img align="left" alt="Tushar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
