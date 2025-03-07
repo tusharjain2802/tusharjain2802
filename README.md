@@ -1,4 +1,4 @@
-## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <a href="https://www.linkedin.com/in/tushar-jain-94a6a2194/">Tushar Jain</a> 👨‍🎓
+[## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <a href="https://www.linkedin.com/in/tushar-jain-94a6a2194/">Tushar Jain</a> 👨‍🎓
 
 
 ## About Me ✍
@@ -77,3 +77,4 @@ Some of my skills are under
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharjain2802&show_icons=true&locale=en" alt="tusharjain2802" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharjain2802&" alt="tusharjain2802" /></p>
+](http://github.com/tusharjain2802/tusharjain2802/)
